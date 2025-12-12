@@ -6,7 +6,7 @@
 ![Claude Code](https://img.shields.io/badge/Claude-Code_Skill-5A67D8?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-** Claude Code Skill，用于创建符合 Apple 人机界面指南 (HIG) 的界面设计**
+** apple-hig-designer，用于创建符合 Apple 人机界面指南 (HIG) 的界面设计**
 
 [English](README.md) | [简体中文](README_CN.md)
 
