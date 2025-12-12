@@ -6,7 +6,7 @@
 ![Claude Code](https://img.shields.io/badge/Claude-Code_Skill-5A67D8?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-**专业级 Claude Code Skill，用于创建符合 Apple 人机界面指南 (HIG) 的界面设计**
+** Claude Code Skill，用于创建符合 Apple 人机界面指南 (HIG) 的界面设计**
 
 [English](README.md) | [简体中文](README_CN.md)
 
@@ -51,6 +51,7 @@ cp -r apple-hig-designer .claude/skills/
 ## 🚀 使用方法
 
 安装后，当您进行以下操作时，Claude Code 会自动激活此 Skill：
+
 -请告诉claude code，你要使用apple-hig-designer
 然后使用触发短语：
   - "设计一个苹果风格的..."
