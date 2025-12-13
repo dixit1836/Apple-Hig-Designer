@@ -39,3 +39,17 @@ dist/
 build/
 *.min.js
 *.min.css
+
+# Claude Code local configuration
+.claude/
+
+# Development and research files
+research/
+test-examples/
+
+# Spec workflow templates (optional)
+.spec-workflow/
+
+# Project architecture index (for AI use)
+CLAUDE.md
+resources/CLAUDE.md
